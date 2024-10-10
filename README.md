@@ -24,7 +24,6 @@ Created animated interviewer characters with Blender, integrating 3D models,real
 
 #Implemented C# as a scripting language.
 
-
 <a href="">
-<img src="C#.png" alt="MetaInterview environment"></img>
+<img src="script.png" alt="script"></img>
 </a>
