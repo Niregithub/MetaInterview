@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/21adffb5-ddfc-4d76-8c75-edf24e9be48b)The MetaInterview in the metaverse is a virtual space where people gather to attend events, presentations, and performances in a shared digital environment. Utilizing VR technology, participants can immerse themselves in a variety of experiences, from virtual conferences and interview to educational seminars and art exhibitions. This digital auditorium offers the freedom of movement, social interaction, and access to diverse content, bridging geographical barriers and fostering community engagement in a virtual realm.
+The MetaInterview in the metaverse is a virtual space where people gather to attend events, presentations, and performances in a shared digital environment. Utilizing VR technology, participants can immerse themselves in a variety of experiences, from virtual conferences and interview to educational seminars and art exhibitions. This digital auditorium offers the freedom of movement, social interaction, and access to diverse content, bridging geographical barriers and fostering community engagement in a virtual realm.
 
 Created animated interviewer characters with Blender, integrating 3D models,real interview-based office environment and AI-generated voice for realistic, immersive interactions.
 
@@ -8,13 +8,23 @@ Created animated interviewer characters with Blender, integrating 3D models,real
 <img src="metaoffice2.png" alt="MetaInterview environment"></img> 
 </a>
 
-Animated interviewer characters using Blender:
+#Animated interviewer characters using Blender:
+
+
+<a href="">
 <img src="interviewer.png" alt="MetaInterview environment"></img>
+</a>
 
-Real interview-based office environment:
+#Real interview-based office environment:
 
+
+<a href="">
 <img src="metaInterview.png" alt="MetaInterview environment"></img>
+</a>
 
-Implemented C# as a scripting language.
+#Implemented C# as a scripting language.
 
+
+<a href="">
 <img src="c#.png" alt="MetaInterview environment"></img>
+</a>
