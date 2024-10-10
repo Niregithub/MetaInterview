@@ -26,5 +26,5 @@ Created animated interviewer characters with Blender, integrating 3D models,real
 
 
 <a href="">
-<img src="c#.png" alt="MetaInterview environment"></img>
+<img src="C#.png" alt="MetaInterview environment"></img>
 </a>
